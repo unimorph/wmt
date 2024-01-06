@@ -11,6 +11,7 @@ Each translation has been mapped into corresponding UniMorph features:
 V;INF V;PST  V;PST;RPOG   V;PRS;PROG;  V;FUT  V;PRES;3;SG  V;IMP  V.CVB;PST (perfect participle/past adverbal participle)
 
 In addition, each lemma contains inherent features, e.g. jaarlanu   "tv,n,inf.". The features were mapped to LGSPEC (it's not entirely clear how to interpret them):
+
   dv-LGSPEC01  
   iv-LGSPEC02 (intransitive?)  
   tv-LGSPEC03 (transitive?)  
