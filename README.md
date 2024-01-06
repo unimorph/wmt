@@ -2,7 +2,7 @@
 Contains verbal paradigms from Walmajarri
 
 # Source
-AuSIL Interactive Walmajarri—English Dictionary (https://ausil.org.au/Dictionary/Walmajarri/Index-en.htm)[https://ausil.org.au/Dictionary/Walmajarri/Index-en.htm]
+AuSIL Interactive Walmajarri—English Dictionary [https://ausil.org.au/Dictionary/Walmajarri/Index-en.htm](https://ausil.org.au/Dictionary/Walmajarri/Index-en.htm)
 
 # Features
 Initial AuSIL files contained entries such as "Gram: jaarlanu (to separate), jaarlani (separated), jaarlanani (was separating), jaarlanana (is separating), jaarlanku (will separate), jaarlanany (separates), jaarlanta (separate!), jaarlanurla (having separated), jaarlantarla"
