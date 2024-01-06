@@ -26,3 +26,10 @@ In addition, each lemma contains inherent features, e.g. jaarlanu   "tv,n,inf.".
 
 
 Some lemmas contain upper case E,J,M,N, they mark dialects:  (E) Eastern, (J) Juwaliny, M (middle), (N) Noonkanbah.
+
+# References
+  Hudson, Joyce. (1978). The core of Walmatjari grammar. Canberra: Australian Institute for Aboriginal Studies.  
+  Hudson, Joyce and Eirlys Richards. (1976). The Walmatjari: An introduction to the language and culture. Work Papers of SIL-AAB, B-1. Darwin: Summer Institute of Linguistics.
+
+
+
