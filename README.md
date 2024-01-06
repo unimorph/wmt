@@ -27,6 +27,17 @@ In addition, each lemma contains inherent features, e.g. jaarlanu   "tv,n,inf.".
 
 Some lemmas contain upper case E,J,M,N, they mark dialects:  (E) Eastern, (J) Juwaliny, M (middle), (N) Noonkanbah.
 
+# Notes
+Paradigms do not contain auxuliary verb constructions such as 
+
+    pajarrangupila   Vb Aux,sub-dat. they two (did something) for us (me and him/her). Gram: With ind, inten, neg moods Kamparni pajarrangupila. They two cooked it for us (me and him/her). Category: verb aux.
+    pajarranya   Vb Aux,sub-obj. We (he/she and I) (did something to) them all. Gram: With ind, inten, neg moods Nyanya pajarranya. We (he/she and I) saw them. 
+
+    pajarranya   Vb Aux,sub-obj. he/she (did something to) us (me and him/her). Gram: With ind, inten, neg moods Nyanya pajarranya. He/she saw us (me and him/her). 
+    
+It's not clear how to include them without rapid growth of paradigm sizes.
+
+
 # References
   Hudson, Joyce. (1978). The core of Walmatjari grammar. Canberra: Australian Institute for Aboriginal Studies.  
   Hudson, Joyce and Eirlys Richards. (1976). The Walmatjari: An introduction to the language and culture. Work Papers of SIL-AAB, B-1. Darwin: Summer Institute of Linguistics.
